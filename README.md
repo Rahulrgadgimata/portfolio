@@ -1,4 +1,4 @@
-# Antigravity Portfolio 🌌
+#Portfolio 🌌
 
 A modern, high-impact personal portfolio website built with an **Antigravity** aesthetic. Designed for AI Engineers and Technical Leaders.
 
